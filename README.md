@@ -8,7 +8,5 @@ The findings were used in the story that was published on February 6, 2022: http
 
   And in these graphics embeded within the story:https://public.flourish.studio/visualisation/8605334/
     https://public.flourish.studio/visualisation/8619331/ 
-
-# Author's note: This code has been partially redacted to remove names.
-  # This is because: 9NEWS has chosen not to fully identify the people experiencing homelessness in this story because advocates say they are in a constant state of crisis and doing so would perpetuate a cycle preventing them from seeking gainful employment.
-  # Removed columns: "arrestee_name" and "dob."
+    
+Author's note: This code has been partially redacted to remove names. This is because: 9NEWS has chosen not to fully identify the people experiencing homelessness in this story because advocates say they are in a constant state of crisis and doing so would perpetuate a cycle preventing them from seeking gainful employment. Removed columns: "arrestee_name" and "dob."
